@@ -6,3 +6,4 @@ This is a new file. Adding some colors
 5.Orange
 6. INDIGO
 7. PURPLE
+8. Cyan
