@@ -4,4 +4,5 @@ This is a new file. Adding some colors
 3. Yellow
 4. Blue
 5.Orange
-6. PURPLE
+6. INDIGO
+7. PURPLE
